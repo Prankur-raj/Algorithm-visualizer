@@ -46,8 +46,8 @@ algorithm-visualizer/
 
 ## ⚙️ Installation
 ```bash
-git clone https://github.com/YOUR_USERNAME/algorithm-visualizer.git
-cd algorithm-visualizer
+git clone https://github.com/Prankur-raj/Algorithm-visualizer.git
+cd Algorithm-visualizer
 pip install -r requirements.txt
 streamlit run app.py
 ```
